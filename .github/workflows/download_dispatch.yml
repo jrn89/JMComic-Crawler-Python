@@ -26,6 +26,7 @@ on:
         required: false
 
       DIR_RULE:
+        rule: Bd_Pindextitle
         type: string
         description: 下载文件夹规则（dir_rule.rule）。默认使用配置文件的 'Bd_Aauthor_Atitle_Pindex'。
         default: ''
